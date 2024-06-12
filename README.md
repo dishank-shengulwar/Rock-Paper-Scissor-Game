@@ -42,4 +42,4 @@ The JavaScript file contains the game logic, including:
 * Functions to determine the game outcome and update the score
 * Functions to display messages based on the game result<br>
 
-Enjoy playing Rock Paper Scissors! If you have any questions or suggestions, feel free to open an issue or reach out.
+## Enjoy playing Rock Paper Scissors!
